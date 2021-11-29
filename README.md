@@ -1,1 +1,1 @@
-# PINN_shear_migration_of_particles
+# Data and code for arXiv:2111.04684
